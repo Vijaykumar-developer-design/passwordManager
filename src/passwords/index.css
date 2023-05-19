@@ -1,0 +1,34 @@
+.first-letter {
+  border-radius: 10px;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  padding-top: 5px;
+  margin-right: 10px;
+}
+.person-password {
+  display: flex;
+  align-items: center;
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  margin: 10px;
+}
+.delete-img {
+  height: 35px;
+  width: 35px;
+}
+.delete-btn {
+  background-color: inherit;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  margin-left: 10px;
+}
+.stars-img {
+  width: 100px;
+}
